@@ -1,0 +1,5 @@
+pdfplumber: This allows your Resume class to perform the parseFile() operation.
+
+spacy: This is the NLP powerhouse your ScoringEngine needs to calculateSemanticSimilarity.
+
+scikit-learn: This provides the math to generateScore() based on the vector distance between the resume and JD

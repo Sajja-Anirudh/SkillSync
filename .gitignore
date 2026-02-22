@@ -1,0 +1,11 @@
+# Local data and secrets
+data/
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Analysis inputs (safety net)
+*.pdf
+*.docx
