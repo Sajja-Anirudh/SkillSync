@@ -9,3 +9,6 @@ __pycache__/
 # Analysis inputs (safety net)
 *.pdf
 *.docx
+
+
+venv/
